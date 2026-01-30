@@ -1,0 +1,102 @@
+references:
+  - "https://en.wikipedia.org/wiki/Toyota_Celica"
+
+generations:
+  - name: "First Generation"
+    start_year: 1970
+    end_year: 1977
+    description: "The first-generation Celica was introduced in December 1970 as a two-door hardtop coupé. It featured 'coke bottle styling' and was based on the Toyota Carina platform. Available in notchback coupe and liftback body styles with various four-cylinder engines including the 2T, 2T-G, 18R, and 20R. Rear-wheel drive layout throughout this generation."
+    chassis_codes:
+      - "A20"
+      - "A30"
+      - "TA22"
+      - "RA20"
+      - "RA21"
+      - "RA22"
+      - "TA23"
+      - "RA23"
+      - "RA24"
+      - "RA25"
+      - "RA28"
+      - "TA27"
+      - "TA28"
+      - "RA29"
+
+  - name: "Second Generation"
+    start_year: 1977
+    end_year: 1981
+    description: "The second-generation Celica was released for the 1978 model year in August 1977. Designed by David Stollery at Toyota's Calty Design Research studio in California. Available in notchback coupe and liftback forms with frameless door glass. Switched to larger 20R and later 22R engines. Rear-wheel drive layout continued."
+    chassis_codes:
+      - "A40"
+      - "A50"
+      - "RA40"
+      - "RA42"
+      - "RA43"
+      - "RA44"
+      - "RA45"
+      - "RA46"
+
+  - name: "Third Generation"
+    start_year: 1981
+    end_year: 1985
+    description: "Third-generation Celica introduced in August 1981 with significantly changed styling. Available in notchback coupe and liftback forms. Featured fully retractable headlights after August 1983 facelift. First turbocharged Celica (GT-T) introduced in September 1982 for Japan. Rear-wheel drive with various engines including 4A, 2T, 3T, 1S, 2S, 18R-G, and 21R."
+    chassis_codes:
+      - "A60"
+      - "TA60"
+      - "SA60"
+      - "RA60"
+      - "AA63"
+      - "SA63"
+      - "RA61"
+      - "RA62"
+      - "RA63"
+      - "RA64"
+      - "RA65"
+      - "TA63"
+      - "TA64"
+
+  - name: "Fourth Generation"
+    start_year: 1985
+    end_year: 1989
+    description: "Major redesign in August 1985 introduced front-wheel drive and a rounded, flowing body style. Switched from Toyota A platform to Toyota T platform. Introduced the GT-Four (ST165) with all-wheel drive and turbocharged 3S-GTE engine in October 1986. Available in coupe, liftback, and convertible forms."
+    chassis_codes:
+      - "T160"
+      - "AT160"
+      - "ST160"
+      - "ST161"
+      - "ST162"
+      - "ST163"
+      - "ST165"
+
+  - name: "Fifth Generation"
+    start_year: 1989
+    end_year: 1993
+    description: "Fifth-generation Celica introduced in September 1989 for the 1990 model year featuring 'Super Round' organic styling. Available with front-wheel drive or all-wheel drive (GT-Four). Japanese market offered four-wheel steering (4WS) models. Facelifted in August 1991 for the 1992 model year."
+    chassis_codes:
+      - "T180"
+      - "AT180"
+      - "ST182"
+      - "ST183"
+      - "ST184"
+      - "ST185"
+
+  - name: "Sixth Generation"
+    start_year: 1993
+    end_year: 1999
+    description: "Sixth-generation Celica introduced in August 1993 for the 1994 model year with more aerodynamic styling. Available in coupe and liftback body styles. Front-wheel drive as standard, GT-Four continued with all-wheel drive. Variable valve timing became standard from 2000 model year."
+    chassis_codes:
+      - "T200"
+      - "AT200"
+      - "ST202"
+      - "ST203"
+      - "ST204"
+      - "ST205"
+
+  - name: "Seventh Generation"
+    start_year: 1999
+    end_year: 2006
+    description: "Seventh and final generation Celica introduced in August 1999 for the 2000 model year. Featured a more angular design compared to previous generations. Available as a liftback only. Front-wheel drive with 1ZZ-FE or 2ZZ-GE engines. Production ended in April 2006 after 35 years of production."
+    chassis_codes:
+      - "T230"
+      - "ZZT230"
+      - "ZZT231"
